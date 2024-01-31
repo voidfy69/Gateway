@@ -9,7 +9,7 @@ import asyncpg
 import re
 from ast import literal_eval
 import botinfo
-from cogs.premium import check_upgraded
+#from cogs.premium import check_upgraded
 import topgg
 from wavelink.ext import spotify
 import spotipy
